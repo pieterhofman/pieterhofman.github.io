@@ -490,7 +490,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/5a24b5b5", "_blank");
+          window.open("https://www.linkedin.com/in/pieter-hofman-5a24b5b5", "_blank");
         },
       },{
         id: 'social-rss',
