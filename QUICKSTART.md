@@ -43,7 +43,7 @@
 1. Open `_config.yml` in your repository
 2. Update these fields:
    ```yaml
-   title: My Website
+   title: Pieter Hofman
    first_name: Your
    last_name: Name
    url: https://your-username.github.io # or your custom domain
