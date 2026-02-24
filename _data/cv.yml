@@ -4,7 +4,7 @@ cv:
   email: P.Hofman@tudelft.nl
   location: Delft, Netherlands
   image: ""
-  summary: PhD in Computational Mechanics with expertise in fracture and fatigue analysis of composite materials, viscoplasticity modeling, and finite element analysis
+  summary: PhD Candidate in Computational Mechanics with expertise in fracture and fatigue analysis of composite materials, viscoplasticity modeling, and finite element analysis
 
   social_networks:
     - network: X
@@ -28,8 +28,8 @@ cv:
         url: https://www.tudelft.nl/
         area: Computational Mechanics
         studyType: Ph.D.
-        start_date: 1-12-2021
-        end_date: 1-12-2025
+        start_date: 2021
+        end_date: 2025
         score: ""
         highlights:
 
@@ -67,8 +67,8 @@ cv:
         location: Delft, Netherlands
         url: https://www.tudelft.nl/
         position: Ph.D.
-        start_date: 1-12-2021
-        end_date: 1-12-2025
+        start_date: 2021
+        end_date: 2025
         summary: Computational Mechanics
 
       - company: Delft University of Technology
