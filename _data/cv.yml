@@ -2,7 +2,7 @@ cv:
   name: Pieter Hofman
   label: PhD Candidate in Computational Mechanics
   email: P.Hofman@tudelft.nl
-  # location: Delft, Netherlands
+  location: Delft, Netherlands
   image: ""
   summary: PhD in Computational Mechanics with expertise in fracture and fatigue analysis of composite materials, viscoplasticity modeling, and finite element analysis
 
@@ -14,12 +14,12 @@ cv:
     - network: LinkedIn
       username: example
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+#  address:
+#    street: 2712 Broadway St
+#    city: San Francisco
+#    region: California
+#    postalCode: CA 94115
+#    countryCode: US
 
   sections:
     Education:
@@ -28,13 +28,13 @@ cv:
         url: https://www.tudelft.nl/
         area: Computational Mechanics
         studyType: Ph.D.
-        start_date: 2021
-        end_date: 2025
+        start_date: 1-12-2021
+        end_date: 1-12-2025
         score: ""
-        courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
+
+     #     - Description 1.
+     #     - Description 2.
 
       - institution: Delft University of Technology
         location: Delft, Netherlands
@@ -44,7 +44,7 @@ cv:
         start_date: 2018
         end_date: 2021
         highlights:
-          - Structural mechanics and composite materials
+     #     - Structural mechanics and composite materials
 
       - institution: Delft University of Technology
         location: Delft, Netherlands
@@ -64,6 +64,14 @@ cv:
 
     Experience:
       - company: Delft University of Technology
+        location: Delft, Netherlands
+        url: https://www.tudelft.nl/
+        position: Ph.D.
+        start_date: 1-12-2021
+        end_date: 1-12-2025
+        summary: Computational Mechanics
+
+      - company: Delft University of Technology
         position: Researcher
         location: Delft, Netherlands
         start_date: 2021
@@ -82,17 +90,6 @@ cv:
         start_date: 2015
         end_date: 2015
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
     Awards:
       - title: Best presentation at the 27th Engineering Mechanics Symposium
         awarder: Engineering Mechanics Symposium
@@ -102,78 +99,66 @@ cv:
         summary: 'Modelling of interfacial fracture and fatigue in polymer composites'
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Computational analysis of fracture and fatigue in overmolded thermoplastic composites - time-homogenized viscoplasticity, cohesive fracture and processing effects
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Pieter Hofman
+          - F. P. van der Meer
+          - L. J. Sluys
+        publisher: Under Review
+        releaseDate: 2026-01-01
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: A Viscoplasticity Model with an Invariant-Based Non-Newtonian Flow Rule for Unidirectional Thermoplastic Composites
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Pieter Hofman
+          - D. Kovačević
+          - F. P. van der Meer
+          - L. J. Sluys
+        publisher: Mechanics of Materials
+        volume: 211
+        pages: 105507
+        releaseDate: 2025-01-01
+        doi: 10.1016/j.mechmat.2025.105507
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Unifying Creep and Fatigue Modeling of Composites - A Time-Homogenized Micromechanical Framework with Viscoplasticity and Cohesive Damage
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - D. Kovačević
+          - Pieter Hofman
+          - I. B. C. M. Rocha
+          - F. P. van der Meer
+        publisher: Journal of the Mechanics and Physics of Solids
+        volume: 193
+        pages: 105904
+        releaseDate: 2024-01-01
+        doi: 10.1016/j.jmps.2024.105904
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Modeling of Progressive High-Cycle Fatigue in Composite Laminates Accounting for Local Stress Ratios
+        authors:
+          - Pieter Hofman
+          - F. P. van der Meer
+          - L. J. Sluys
+        publisher: Composites Part A - Applied Science and Manufacturing
+        volume: 183
+        pages: 108219
+        releaseDate: 2024-01-01
+        doi: 10.1016/j.compositesa.2024.108219
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: A Numerical Framework for Simulating Progressive Failure in Composite Laminates under High-Cycle Fatigue Loading
+        authors:
+          - Pieter Hofman
+          - F. P. van der Meer
+          - L. J. Sluys
+        publisher: Engineering Fracture Mechanics
+        volume: 295
+        releaseDate: 2024-01-01
+        doi: 10.1016/j.engfracmech.2023.109240
 
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - title: Circular Representative Volume Elements for Strain Localization Problems
+        authors:
+          - Pieter Hofman
+          - L. Ke
+          - F. P. van der Meer
+        publisher: International Journal for Numerical Methods in Engineering
+        volume: 124
+        pages: 784–807
+        releaseDate: 2023-01-01
+        doi: 10.1002/nme.7142
