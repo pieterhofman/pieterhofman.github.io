@@ -1,20 +1,24 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-06-05'
 papers:
   wYrl4_wAAAAJ:2osOgNQ5qMEC:
-    citations: 18
+    citations: 22
     title: A numerical framework for simulating progressive failure in composite laminates under high-cycle fatigue loading
     year: '2024'
   wYrl4_wAAAAJ:9yKSN-GCB0IC:
-    citations: 7
+    citations: 8
     title: 'Unifying creep and fatigue modeling of composites: A time-homogenized micromechanical framework with viscoplasticity and cohesive damage'
     year: '2024'
   wYrl4_wAAAAJ:IjCSPb-OGe4C:
     citations: 1
-    title: 'Computational analysis of fracture and fatigue in overmolded thermoplastic composites: time-homogenized viscoplasticity, cohesive fracture and processing effects'
-    year: Unknown Year
-  wYrl4_wAAAAJ:UeHWp8X0CEIC:
+    title: 'Computational analysis of fracture and fatigue in overmolded thermoplastic composites: Time-homogenized viscoplasticity, cohesive fracture and processing effects'
+    year: '2026'
+  wYrl4_wAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
+    title: Computational Modeling of Rate-Dependent Plasticity, Fracture and Fatigue in Bonded Thermoplastic Composite Parts
+    year: '2025'
+  wYrl4_wAAAAJ:UeHWp8X0CEIC:
+    citations: 2
     title: A viscoplasticity model with an invariant-based non-Newtonian flow rule for unidirectional thermoplastic composites
     year: '2025'
   wYrl4_wAAAAJ:d1gkVwhDpl0C:
@@ -26,7 +30,7 @@ papers:
     title: Computational modeling of progressive high-cycle fatigue in composite laminates
     year: Unknown Year
   wYrl4_wAAAAJ:u-x6o8ySG0sC:
-    citations: 11
+    citations: 13
     title: Modeling of progressive high-cycle fatigue in composite laminates accounting for local stress ratios
     year: '2024'
   wYrl4_wAAAAJ:u5HHmVD_uO8C:
