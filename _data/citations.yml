@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-15'
 papers:
   wYrl4_wAAAAJ:2osOgNQ5qMEC:
     citations: 22
     title: A numerical framework for simulating progressive failure in composite laminates under high-cycle fatigue loading
     year: '2024'
   wYrl4_wAAAAJ:9yKSN-GCB0IC:
-    citations: 8
+    citations: 9
     title: 'Unifying creep and fatigue modeling of composites: A time-homogenized micromechanical framework with viscoplasticity and cohesive damage'
     year: '2024'
   wYrl4_wAAAAJ:IjCSPb-OGe4C:
